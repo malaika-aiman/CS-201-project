@@ -33,4 +33,4 @@ I have also maintained a separate repository for practice questions and exercise
 
 ---
 
-**Author:** MAHI!
+**Author:** MALAIKA!
