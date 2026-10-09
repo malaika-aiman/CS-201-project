@@ -29,7 +29,7 @@ Welcome to my C++ projects repository showcasing hands-on programs built during 
 ## 🔗 Practice Questions
 
 Repository for practice exercises:  
-[Practice Questions Repository](https://github.com/malaika-aiman/CodeWithMalaika.git)
+[Practice Questions Repository](https://github.com/malaika-aiman/cpp-programming))
 
 ---
 
